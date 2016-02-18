@@ -1,6 +1,11 @@
-##可滚动的视图
+#可滚动的视图
+  
+  自适应navigationbar，tabbar等控件。无需再重新计算
 
-更新
+现在为0.0.1版本，后续会继续优化
+
+
+提交到cocoapods中：
 1.
 pod spec lint --sources='https://github.com/CocoaPods/Specs' WSPagesViewController.podspec --verbose
 
