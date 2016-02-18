@@ -25,6 +25,7 @@ s.license          = 'MIT'
 s.author           = { "caiwenshu" => "wenshu.cai@gmail.com" }
 s.source           = { :git => "https://github.com/caiwenshu/WSPagesViewController.git", :tag => s.version.to_s }
 
+s.platform     = :ios, '7.0'
 s.requires_arc = true
 
 s.public_header_files = "WSPagesViewController/**/*.h"
@@ -32,5 +33,7 @@ s.source_files = "WSPagesViewController/**/*.{h,m}"
 s.resource_bundles = {
 'pro' => ['WSPagesViewController/*.png']
 }
+
+s.frameworks = 'UIKit'
 
 end
