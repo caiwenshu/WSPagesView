@@ -15,9 +15,9 @@ WSPagesViewController
 
 可滚动的容器
 
-![Alt text](pics/1)
-![Alt text](2)
-![Alt text](3)
+![Alt text](pics/1.png)
+![Alt text](pics/2.png)
+![Alt text](pics/3.png)
 
 Features
 ==============
